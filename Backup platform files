@@ -1,0 +1,3 @@
+git checkout -b fix/android-regen
+cp -r android android_backup || true
+cp -r ios ios_backup || true
