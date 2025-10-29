@@ -1,1 +1,1 @@
-flutter create -t app .
+flutter create -t app <main>
